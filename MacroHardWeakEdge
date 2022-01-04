@@ -1,0 +1,6 @@
+the instructions are "I've hidden a flag in this file. Can you find it?" attached is a file entitled Forensics is Fun.pptm
+when opening the file on my chromebook a google slide is open, the first slide has the title of the file, it has 58 total slides
+first i decided to look for white text to blend in with the background, after accidentally putting in a letter i noticed that bullet points are seemingly on for all slides
+the font on the title is calibri light 60 point but the other slides are calibri 28 point
+i doubt anything is included in the slideshow so i begin to look into the metadata
+the words flag and pico are nowhere to be found despite all investigation i cannot find any clues
